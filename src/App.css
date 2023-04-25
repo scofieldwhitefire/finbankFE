@@ -1,0 +1,42 @@
+/* css files */
+@import "./assets/css/style.min.css";
+@import "./assets/css/wp.css";
+@import "./assets/css/classic-themes.min.css";
+@import "./assets/css/global.css";
+@import "./assets/css/cf-7.css";
+@import "./assets/css/vendors/animate/animate.min6a4d.css";
+@import "./assets/css/vendors/animate/custom-animate6a4d.css";
+@import "./assets/css/vendors/bootstrap/css/bootstrap.min6a4d.css";
+@import "./assets/css/vendors/bxslider/jquery.bxslider6a4d.css";
+@import "./assets/css/vendors/fontawesome/css/font-awesome-all6a4d.css";
+@import "./assets/css/vendors/jquery-magnific-popup/jquery.magnific-popup6a4d.css";
+@import "./assets/css/vendors/jquery-ui/jquery-ui6a4d.css";
+@import "./assets/css/vendors/nice-select/nice-select6a4d.css";
+@import "./assets/css/vendors/odometer/odometer.min6a4d.css";
+@import "./assets/css/vendors/owl-carousel/owl.carousel.min6a4d.css";
+@import "./assets/css/vendors/owl-carousel/owl.theme.default.min6a4d.css";
+@import "./assets/css/vendors/swiper/swiper.min6a4d.css";
+@import "./assets/css/vendors/vegas/vegas.min6a4d.css";
+@import "./assets/css/vendors/thm-icons/style6a4d.css";
+@import "./assets/css/vendors/aos/aos6a4d.css";
+@import "./assets/css/css/module-css/01-header-section6a4d.css";
+@import "./assets/css/css/module-css/02-banner-section6a4d.css";
+@import "./assets/css/css/module-css/03-about-section6a4d.css";
+@import "./assets/css/css/module-css/04-fact-counter-section6a4d.css";
+@import "./assets/css/css/module-css/05-testimonial-section6a4d.css";
+@import "./assets/css/css/module-css/06-partner-section6a4d.css";
+@import "./assets/css/css/module-css/07-footer-section6a4d.css";
+@import "./assets/css/css/module-css/08-blog-section6a4d.css";
+@import "./assets/css/css/module-css/09-breadcrumb-section6a4d.css";
+@import "./assets/css/css/module-css/10-contact6a4d.css";
+@import "./assets/css/css/style6a4d.css";
+@import "./assets/css/css/color-16a4d.css";
+@import "./assets/css/css/custom6a4d.css";
+@import "./assets/css/css/responsive6a4d.css";
+@import "./assets/css/lib/eicons/css/elementor-icons.min91ce.css";
+@import "./assets/css/css/frontend-lite.minac9e.css";
+@import "./assets/css/css/globale719.css";
+@import "./assets/css/css/post-9e719.css";
+
+/* fonts  */
+@import url("https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.1.1");
