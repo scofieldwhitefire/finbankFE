@@ -489,7 +489,10 @@ const Home = () => {
                                   id="menu-item-434"
                                   className="menu-item menu-item-type-post_type menu-item-object-page menu-item-434"
                                 >
-                                  <a title="Recreational Vehicle Loans" href="#">
+                                  <a
+                                    title="Recreational Vehicle Loans"
+                                    href="#"
+                                  >
                                     Recreational Vehicle Loans
                                   </a>
                                 </li>
@@ -649,7 +652,10 @@ const Home = () => {
                                   id="menu-item-436"
                                   className="menu-item menu-item-type-post_type menu-item-object-page menu-item-436"
                                 >
-                                  <a title="Text Alerts & Notification" href="#">
+                                  <a
+                                    title="Text Alerts & Notification"
+                                    href="#"
+                                  >
                                     Text Alerts & Notification
                                   </a>
                                 </li>
@@ -868,11 +874,11 @@ const Home = () => {
             <ul className="mobile-nav__contact list-unstyled">
               <li>
                 <i className="fa fa-envelope"></i>
-                <a href="mailto:info@example.com">info@example.com</a>
+                <a href="mailto:info@finbanckcu.com">info@finbanckcu.com</a>
               </li>
               <li>
                 <i className="fa fa-phone-alt"></i>
-                <a href="tel:444-000-777-66">444-000-777-66</a>
+                <a href="tel:+1(213) 290 1904">+1(213) 290 1904</a>
               </li>
             </ul>
             <div className="mobile-nav__social">
@@ -4239,8 +4245,11 @@ const Home = () => {
                           <div className="text">
                             <h3>Corporate Branch</h3>
                             <p>
-                              141, First Floor, 12 St Roots Terrace, Los Angeles{" "}
-                              <br /> United States 90010.{" "}
+                              Huntington Park <br />
+                              California
+                              <br />
+                              USA
+                              <br />
                             </p>
                           </div>
                         </li>
@@ -4252,12 +4261,14 @@ const Home = () => {
                             <h3>Help Desk</h3>
                             <p>
                               Call to:{" "}
-                              <a href="tel:+8-55-678-9012">+8-55-678-9012</a>
+                              <a href="tel:+1(213) 290 1904">
+                                +1(213) 290 1904
+                              </a>
                             </p>
                             <p>
                               Send a Mail:{" "}
-                              <a href="mailto:support@example.com">
-                                support@example.com
+                              <a href="mailto:support@finbankcu.com">
+                                support@finbankcu.com
                               </a>
                             </p>
                           </div>
