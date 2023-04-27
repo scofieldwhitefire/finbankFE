@@ -410,7 +410,7 @@ const Homex = () => {
                 </ul>
               </div> */}
             </div>
-            <div className="logged-user-w px-[2px] lg:py-[0rem] px-[1rem]">
+            {/* <div className="logged-user-w px-[2px] lg:py-[0rem] px-[1rem]">
               <div className="logged-user-i">
                 <div className="avatar-w">
                   <img alt="" src={Images.avatar1} />
@@ -462,7 +462,7 @@ const Homex = () => {
                   </ul>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="search-with-suggestions-w">
